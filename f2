@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main{
+   int *b
+   printf("welcome to fuxal f2 compiler!");
+   
+
+
+}
+void shell{
+}
+void reader{
+int *a
+}
